@@ -1,0 +1,17 @@
+{
+  "name": "myfirstnodejs",
+  "version": "0.0.1",
+  "description": "My first node js and react web app",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "react",
+    "app"
+  ],
+  "author": "Kathryn Smith",
+  "license": "ISC"
+}
